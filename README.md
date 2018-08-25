@@ -18,9 +18,9 @@ Develop on Dev C++
 ![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_input_case.JPG)
 
 Given:<br/>
-The size of a grid map<br/>
-The coordinates of a source and a target<br/>
-A set of obstacles<br/>
+* The size of a grid map<br/>
+* The coordinates of a source and a target<br/>
+* A set of obstacles<br/>
 
 ![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_initial_map.jpg)
 
