@@ -10,9 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 Develop on Dev C++
 
-```
-[Here is for the link for Dev C++ download]:https://sourceforge.net/projects/orwelldevcpp/
-```
+[Here is for the link for Dev C++ download](https://sourceforge.net/projects/orwelldevcpp/)
+
 
 ## Running the tests
 
