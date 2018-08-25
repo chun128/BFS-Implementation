@@ -32,6 +32,8 @@ Usage: ./bfs [input_case]
 
 ## Execution Result
 
+Show the routing map and index mad as below
+
 ![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_after_routing.jpg)
 
 
