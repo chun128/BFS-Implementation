@@ -22,6 +22,11 @@ Given:<br/>
 * The coordinates of a source and a target<br/>
 * A set of obstacles<br/>
 
+Parse the input file: <br/>
+```
+Usage: ./bfs [input_case]
+```
+
 ![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_initial_map.jpg)
 
 
