@@ -1,9 +1,6 @@
 # BFS-Implementation
-Use the BFS algorithm to perform propagation from the source to the target
-
-# Project Title
-
-One Paragraph of project description goes here
+Use the BFS algorithm to perform propagation from the source to the target.
+Use the BFS propagation indices to trace from the target to the source and construct the searching path simultaneously.
 
 ## Getting Started
 
@@ -11,33 +8,23 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Develop on Dev C++
 
 ```
-Give examples
+[Here is for the link for Dev C++ download](https://sourceforge.net/projects/orwelldevcpp/)
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_input_case.JPG)
+
+Given:
+⎯ The size of a grid map
+⎯ The coordinates of a source and a target
+⎯ A set of obstacles
+
+![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_initial_map.jpg)
+
 
 ### Break down into end to end tests
 
