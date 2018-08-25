@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Develop on Dev C++
 
-[Here is for the link for Dev C++ download](https://sourceforge.net/projects/orwelldevcpp/)
+[Here is the link for Dev C++ downloading](https://sourceforge.net/projects/orwelldevcpp/)
 
 
 ## Running the tests
@@ -25,25 +25,10 @@ A set of obstacles<br/>
 ![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_initial_map.jpg)
 
 
-### Break down into end to end tests
+## Execution Result
 
-Explain what these tests test and why
+![image](https://github.com/chun128/BFS-Implementation/blob/master/BFS%20pictures/BFS_after_routing.jpg)
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
